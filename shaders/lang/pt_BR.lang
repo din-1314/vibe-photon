@@ -1,0 +1,179 @@
+#--------------------------------------------------------------------------------------------------#
+# Photon Cinematic Concept - Português (Brasil)
+#
+# This file only holds the strings the Concept adds (the same keys as the "Photon Cinematic Concept"
+# block at the end of en_US.lang). Photon's own menus are not translated here: keys missing from
+# this file fall back to en_US.lang, the same way Photon's other partial translations work.
+#
+# A complete Brazilian Portuguese translation of Photon itself is a separate project, meant for a
+# fork of the original Photon repository. When it exists, its pt_BR.lang comes first and this block
+# is appended to the end of it, without mixing the two.
+#--------------------------------------------------------------------------------------------------#
+
+screen.concept                                 = §dDin Concept
+screen.concept.comment                         = Din Concept: o End do Concept - buraco negro, planeta, nebulosa, estrelas, estrelas cadentes e o portal
+option.CONCEPT_SKY_STYLE                       = Estilo do Céu
+option.CONCEPT_SKY_STYLE.comment               = Define o visual do céu do End. Photon Concept (padrão): o End do Photon, com céu e névoa roxos, com o buraco negro, o planeta, a nebulosa e as estrelas do Concept. Cinematic Void: o End escuro de espaço profundo.
+value.CONCEPT_SKY_STYLE.CONCEPT_SKY_CINEMATIC_VOID  = Cinematic Void
+value.CONCEPT_SKY_STYLE.CONCEPT_SKY_PHOTON_ORIGINAL = Photon Concept
+option.CONCEPT_ENHANCED_STARS                  = Campo de Estrelas Aprimorado
+option.CONCEPT_ENHANCED_STARS.comment          = Um campo denso de estrelas de espaço profundo em todo o End, inclusive no Void abaixo da ilha, curvado e puxado pelo buraco negro. Estrelas branco-quentes, douradas e laranja, algumas branco-azuladas, e o aglomerado jovem da nebulosa: um nó de estrelas quentes branco-azuladas no coração dela. Funciona nos dois estilos de céu. Desligado: as estrelas originais do Photon. A densidade e o brilho vêm de Stars Coverage e Stars Intensity (Sky > Stars)
+option.CONCEPT_ENHANCED_STARS_WORLD           = Mundo do Campo de Estrelas
+option.CONCEPT_ENHANCED_STARS_WORLD.comment   = Em quais mundos o Campo de Estrelas Aprimorado aparece. No Overworld ele substitui as estrelas do Photon à noite e gira com o céu.
+option.MILKY_WAY                             = Via Láctea (Overworld)
+option.MILKY_WAY.comment                     = Uma faixa da Via Láctea no céu noturno do Overworld, nas cores da nossa nebulosa: núcleo âmbar, pontas azuladas, nuvens de estrelas e uma faixa escura de poeira. Gira com as estrelas, só aparece à noite. Quase não custa FPS.
+option.MILKY_WAY_INTENSITY                   = Intensidade da Via Láctea
+option.MILKY_WAY_INTENSITY.comment           = O brilho da Via Láctea, em porcentagem.
+suffix.MILKY_WAY_INTENSITY                   = %
+value.CONCEPT_ENHANCED_STARS_WORLD.CONCEPT_WORLD_END = Só End
+value.CONCEPT_ENHANCED_STARS_WORLD.CONCEPT_WORLD_OVERWORLD = Só Overworld
+value.CONCEPT_ENHANCED_STARS_WORLD.CONCEPT_WORLD_BOTH = Ambos
+option.END_SHOOTING_STARS                     = Estrelas Cadentes
+option.END_SHOOTING_STARS.comment             = De vez em quando um risco brilhante cruza o céu do End, descendo, com a cauda sumindo atrás dele, e some em cerca de um segundo. Quase não custa FPS.
+option.END_SHOOTING_STARS_FREQUENCY           = Frequência das Estrelas Cadentes
+option.END_SHOOTING_STARS_FREQUENCY.comment   = Com que frequência elas aparecem, em porcentagem (100%: mais ou menos uma a cada 3 a 7 segundos na parte do céu que você está olhando).
+suffix.END_SHOOTING_STARS_FREQUENCY           = %
+option.END_PORTAL_CONCEPT                     = Portal do End Cinematográfico
+option.END_PORTAL_CONCEPT.comment             = O portal do End (e o gateway) com o jeito do Minecraft - camadas de pontinhos quadrados - nas cores do nosso End: fundo quase preto, pontinhos laranja, âmbar e azul como a nebulosa, alguns brancos quentes como o disco do buraco negro, e uma nuvem fraca da nebulosa no fundo. As camadas ficam em profundidades de verdade (se mexem umas contra as outras quando você anda), piscam, e algumas soltam brilhos de vez em quando. Desligado: o portal do Photon.
+option.END_PORTAL_GLOW                        = Luz e Névoa do Portal
+option.END_PORTAL_GLOW.comment                = O portal do End ilumina a sala com a luz quente do nosso End, e uma névoa nas cores da nebulosa (laranja e azul) sobe dele, com faíscas subindo e sumindo. Precisa das Luzes Coloridas ligadas. Custa um pouco de FPS.
+option.END_PORTAL_MIST_INTENSITY              = Intensidade da Névoa do Portal
+option.END_PORTAL_MIST_INTENSITY.comment      = O quanto a névoa e as faíscas do portal aparecem, em porcentagem.
+suffix.END_PORTAL_MIST_INTENSITY              = %
+option.OVERWORLD_PLANET_MOON_SIZE             = Tamanho do Planeta-Lua
+option.OVERWORLD_PLANET_MOON_SIZE.comment     = O tamanho do planeta no céu, em porcentagem do tamanho da lua do Photon.
+suffix.OVERWORLD_PLANET_MOON_SIZE             = %
+option.END_BLACK_HOLE_WORLD                   = Mundo do Buraco Negro
+option.END_BLACK_HOLE_WORLD.comment           = Em quais mundos o buraco negro aparece. No Overworld ele fica no mesmo lugar do céu que no End; de dia aparece mais fraco, atrás do azul do céu, como a lua de dia (não ilumina o mundo).
+option.END_PLANET_WORLD                       = Mundo do Planeta
+option.END_PLANET_WORLD.comment               = Em quais mundos o planeta aparece. No Overworld ele é a lua: nasce e se põe com ela e tem as fases dela (só com a lua do shader, não com a Lua Vanilla).
+option.END_SHOOTING_STARS_WORLD               = Mundo das Estrelas Cadentes
+option.END_SHOOTING_STARS_WORLD.comment       = Em quais mundos as estrelas cadentes aparecem. No Overworld só à noite, atrás das nuvens.
+value.END_BLACK_HOLE_WORLD.CONCEPT_WORLD_END   = Só End
+value.END_BLACK_HOLE_WORLD.CONCEPT_WORLD_OVERWORLD = Só Overworld
+value.END_BLACK_HOLE_WORLD.CONCEPT_WORLD_BOTH  = Ambos
+value.END_PLANET_WORLD.CONCEPT_WORLD_END       = Só End
+value.END_PLANET_WORLD.CONCEPT_WORLD_OVERWORLD = Só Overworld
+value.END_PLANET_WORLD.CONCEPT_WORLD_BOTH      = Ambos
+value.END_SHOOTING_STARS_WORLD.CONCEPT_WORLD_END = Só End
+value.END_SHOOTING_STARS_WORLD.CONCEPT_WORLD_OVERWORLD = Só Overworld
+value.END_SHOOTING_STARS_WORLD.CONCEPT_WORLD_BOTH = Ambos
+
+screen.concept_stars                           = Estrelas
+screen.concept_stars.comment                   = O campo de estrelas, a Via Láctea e as estrelas cadentes.
+screen.end_black_hole                          = Buraco Negro
+screen.end_black_hole_color                    = Cor do Buraco Negro
+screen.end_black_hole_color.comment            = Vermelho, verde e azul da luz do buraco negro
+option.END_BLACK_HOLE_RAYS                    = Raios do Buraco Negro
+option.END_BLACK_HOLE_RAYS.comment            = A luz do buraco negro atravessando o ar entre os pilares de obsidiana, em feixes: uma névoa fina em volta da ilha principal, iluminada por ele e com a sombra dos pilares. Mais forte olhando na direção dele. Precisa da Luz Ambiental ligada. Custa pouco FPS.
+option.END_BLACK_HOLE_RAYS_INTENSITY          = Intensidade dos Raios
+option.END_BLACK_HOLE_RAYS_INTENSITY.comment  = O quanto os raios aparecem, em porcentagem.
+suffix.END_BLACK_HOLE_RAYS_INTENSITY          = %
+option.END_BLACK_HOLE_TINT_R                  = §c▍ §fVermelho
+option.END_BLACK_HOLE_TINT_R.comment          = Quanto de vermelho tem a luz do buraco negro (1.00: sem mudança). Os três juntos mudam a cor de tudo o que é dele: o disco, o anel, o halo, a luz que ele joga na nebulosa e a luz que ele joga no mundo (blocos, névoa, planeta).
+option.END_BLACK_HOLE_TINT_G                  = §a▍ §fVerde
+option.END_BLACK_HOLE_TINT_G.comment          = Quanto de verde tem a luz do buraco negro (1.00: sem mudança). Os três juntos mudam a cor de tudo o que é dele: o disco, o anel, o halo, a luz que ele joga na nebulosa e a luz que ele joga no mundo (blocos, névoa, planeta).
+option.END_BLACK_HOLE_TINT_B                  = §9▍ §fAzul
+option.END_BLACK_HOLE_TINT_B.comment          = Quanto de azul tem a luz do buraco negro (1.00: sem mudança). Os três juntos mudam a cor de tudo o que é dele: o disco, o anel, o halo, a luz que ele joga na nebulosa e a luz que ele joga no mundo (blocos, névoa, planeta).
+option.END_BLACK_HOLE                          = Ativar
+option.END_BLACK_HOLE.comment                  = Um buraco negro com disco de acreção que distorce as estrelas atrás dele. Por enquanto, só aparece no End
+option.END_BLACK_HOLE_INTENSITY                = Intensidade
+option.END_BLACK_HOLE_INTENSITY.comment        = Intensidade geral do efeito do buraco negro: de 0 a 1, faz o efeito inteiro aparecer ou sumir aos poucos. Acima de 1, só a luz dele fica mais forte (para testes)
+option.END_BLACK_HOLE_SIZE                     = Tamanho
+option.END_BLACK_HOLE_SIZE.comment             = Tamanho aparente do buraco negro no céu
+option.END_BLACK_HOLE_WARP_STRENGTH            = Lente Gravitacional
+option.END_BLACK_HOLE_WARP_STRENGTH.comment    = O quanto a luz se curva ao redor do buraco negro
+option.END_BLACK_HOLE_DISC_BRIGHTNESS          = Brilho do Disco
+option.END_BLACK_HOLE_DISC_BRIGHTNESS.comment  = Brilho do disco de acreção e da luz dourada que ele lança no gás da nebulosa em volta dele
+option.END_BLACK_HOLE_BROAD_HALO              = Halo Amplo
+option.END_BLACK_HOLE_BROAD_HALO.comment      = Luz suave que se espalha do buraco negro para bem longe no espaço ao redor, várias vezes o tamanho dele. Nunca ilumina o centro escuro e não depende do Brilho do Disco
+option.END_BLACK_HOLE_LIGHT                    = Iluminação do Ambiente
+option.END_BLACK_HOLE_LIGHT.comment            = O buraco negro vira a fonte de luz do End: o terreno virado para ele fica iluminado e tudo projeta sombra para o lado oposto, usando as configurações de sombra do Photon. Acompanha a Intensidade e o Brilho do Disco. Desligado: a iluminação original do End do Photon
+option.END_BLACK_HOLE_SPEED                    = Velocidade da Animação
+option.END_BLACK_HOLE_SPEED.comment            = Velocidade do redemoinho do disco de acreção. O puxão do buraco negro também a segue (0 para tudo); para mudar só o puxão, use Velocidade do Puxão
+option.END_BLACK_HOLE_PULL                     = Velocidade do Puxão
+option.END_BLACK_HOLE_PULL.comment             = A rapidez com que o buraco negro é visto puxando o céu: as estrelas em volta dele correndo para dentro e o gás da nebulosa caindo em direção a ele (o gás só com Movimento da Nebulosa ligado). Não muda a animação do disco nem o resto do movimento da nebulosa. Desligado: nada cai, as estrelas em volta dele só giram
+value.END_BLACK_HOLE_PULL.0                    = Desligado
+value.END_BLACK_HOLE_PULL.1                    = Lento
+value.END_BLACK_HOLE_PULL.2                    = Normal
+value.END_BLACK_HOLE_PULL.3                    = Rápido
+option.END_BLACK_HOLE_STEPS                    = Qualidade
+option.END_BLACK_HOLE_STEPS.comment            = Quantidade de passos de raymarching do disco de acreção. Valores mais altos deixam o disco mais bonito, mas pesam mais no desempenho
+option.END_BLACK_HOLE_ELEVATION                = Elevação
+option.END_BLACK_HOLE_ELEVATION.comment        = Altura do buraco negro em relação ao horizonte, em graus. Valores baixos o deixam perto do horizonte, e 90 o coloca bem acima da sua cabeça
+suffix.END_BLACK_HOLE_ELEVATION                 = °
+option.END_BLACK_HOLE_AZIMUTH                  = Azimute
+option.END_BLACK_HOLE_AZIMUTH.comment          = Direção do buraco negro no céu, como numa bússola, em graus: 0 = norte, 90 = leste, 180 = sul, 270 = oeste. Padrão: 120 (entre o leste e o sul)
+suffix.END_BLACK_HOLE_AZIMUTH                   = °
+option.END_BLACK_HOLE_INCLINATION              = Inclinação do Disco
+option.END_BLACK_HOLE_INCLINATION.comment      = O quanto o disco de acreção aparece aberto. Valores baixos mostram o disco de lado, como uma linha fina; valores altos mostram o disco visto de cima
+suffix.END_BLACK_HOLE_INCLINATION               = °
+
+screen.end_planet                              = Planeta
+option.END_PLANET                              = Ativar
+option.END_PLANET.comment                      = Um planeta gigante numa órbita larga ao redor da ilha principal do End. Funciona de forma independente do buraco negro, então dá para usar mesmo com o buraco negro desligado. Por enquanto, só aparece no End
+option.END_PLANET_SIZE                         = Tamanho
+option.END_PLANET_SIZE.comment                 = Tamanho aparente do planeta no céu
+option.END_PLANET_ORBIT_AZIMUTH                = Azimute da Órbita
+option.END_PLANET_ORBIT_AZIMUTH.comment        = Direção em que o planeta nasce e se põe, como numa bússola, em graus: 0 = norte, 90 = leste, 180 = sul, 270 = oeste
+suffix.END_PLANET_ORBIT_AZIMUTH                 = °
+option.END_PLANET_ORBIT_INCLINATION            = Inclinação da Órbita
+option.END_PLANET_ORBIT_INCLINATION.comment    = Até que altura o planeta sobe no ponto mais alto da órbita, em graus acima do horizonte
+suffix.END_PLANET_ORBIT_INCLINATION             = °
+option.END_PLANET_ORBIT_RADIUS                 = Raio da Órbita
+option.END_PLANET_ORBIT_RADIUS.comment         = Distância, em blocos, entre a ilha do End e a órbita do planeta. Com órbitas maiores, o planeta muda menos de posição quando você voa pela ilha
+suffix.END_PLANET_ORBIT_RADIUS                  = m
+option.END_PLANET_ORBIT_THROUGH_BLACK_HOLE     = Órbita pelo Buraco Negro
+option.END_PLANET_ORBIT_THROUGH_BLACK_HOLE.comment = Gira a órbita para o planeta passar bem na frente do buraco negro uma vez por volta, visto da ilha principal (mesmo tamanho, inclinação, raio e velocidade). Com esta opção ligada, o Azimute da Órbita não é usado. Precisa do buraco negro no mesmo mundo
+option.END_PLANET_ORBIT_PHASE                  = Fase da Órbita
+option.END_PLANET_ORBIT_PHASE.comment          = Onde o planeta está na órbita quando o jogo começa, em graus. Com a Órbita pelo Buraco Negro: 0 = centralizado na frente do buraco negro, negativo = ainda se aproximando. Sem ela: 0 = onde ele nasce. Com Velocidade da Órbita 0, o planeta fica parado ali
+suffix.END_PLANET_ORBIT_PHASE                   = °
+option.END_PLANET_ORBIT_SPEED                  = Velocidade da Órbita
+option.END_PLANET_ORBIT_SPEED.comment          = Velocidade com que o planeta percorre a órbita. Não depende da Velocidade da Animação do buraco negro
+option.END_PLANET_ROTATION_SPEED               = Velocidade de Rotação
+option.END_PLANET_ROTATION_SPEED.comment       = Velocidade com que o planeta gira em torno do próprio eixo. Não depende da Velocidade da Animação do buraco negro
+
+screen.end_nebula                              = Nebulosa
+screen.end_nebula_sea_color                    = Cor do Mar
+screen.end_nebula_sea_color.comment            = Vermelho, verde e azul da luz do Mar da Nebulosa (o mar de gás embaixo do End)
+option.END_NEBULA_SEA_TINT_R                  = §c▍ §fVermelho
+option.END_NEBULA_SEA_TINT_R.comment          = Quanto de vermelho tem a luz do Mar da Nebulosa (1.00: sem mudança). A cor do mar é só dele: a Cor da Nebulosa não mexe no mar, e esta não mexe no resto da nebulosa.
+option.END_NEBULA_SEA_TINT_G                  = §a▍ §fVerde
+option.END_NEBULA_SEA_TINT_G.comment          = Quanto de verde tem a luz do Mar da Nebulosa (1.00: sem mudança). A cor do mar é só dele: a Cor da Nebulosa não mexe no mar, e esta não mexe no resto da nebulosa.
+option.END_NEBULA_SEA_TINT_B                  = §9▍ §fAzul
+option.END_NEBULA_SEA_TINT_B.comment          = Quanto de azul tem a luz do Mar da Nebulosa (1.00: sem mudança). A cor do mar é só dele: a Cor da Nebulosa não mexe no mar, e esta não mexe no resto da nebulosa.
+screen.end_nebula_color                        = Cor da Nebulosa
+screen.end_nebula_color.comment                = Vermelho, verde e azul da luz da nebulosa (menos o Mar da Nebulosa, que tem a cor dele)
+option.END_NEBULA_TINT_R                      = §c▍ §fVermelho
+option.END_NEBULA_TINT_R.comment              = Quanto de vermelho tem a luz da nebulosa (1.00: sem mudança). Os três juntos mudam a cor dela inteira: abaixe um para tirar aquela cor, aumente para reforçar. Tudo em 1.00: as cores originais.
+option.END_NEBULA_TINT_G                      = §a▍ §fVerde
+option.END_NEBULA_TINT_G.comment              = Quanto de verde tem a luz da nebulosa (1.00: sem mudança). Os três juntos mudam a cor dela inteira: abaixe um para tirar aquela cor, aumente para reforçar. Tudo em 1.00: as cores originais.
+option.END_NEBULA_TINT_B                      = §9▍ §fAzul
+option.END_NEBULA_TINT_B.comment              = Quanto de azul tem a luz da nebulosa (1.00: sem mudança). Os três juntos mudam a cor dela inteira: abaixe um para tirar aquela cor, aumente para reforçar. Tudo em 1.00: as cores originais.
+option.END_NEBULA_QUALITY                      = Qualidade da Nebulosa
+option.END_NEBULA_QUALITY.comment              = Quantas amostras a nebulosa usa em cada direção de visão, em porcentagem. Menos: mais FPS (a nebulosa é a parte mais pesada do céu do End) e uma nebulosa mais granulada - que o Acumular Quadros, ligado, tira com a média: até uns 60% a diferença quase não aparece. As formas dela continuam as mesmas.
+suffix.END_NEBULA_QUALITY                      = %
+option.END_NEBULA_TEMPORAL                     = Acumular Quadros
+option.END_NEBULA_TEMPORAL.comment             = Faz a média da nebulosa nos últimos quadros, acompanhando a câmera, e o granulado some - também enquanto você anda, quando só o anti-aliasing deixa ele aparecer e a nebulosa parece em resolução mais baixa. Custa um pouco de FPS. Desligado: como antes.
+option.END_NEBULA                              = Nebulosa
+option.END_NEBULA.comment                      = A Nebulosa da Águia (M16) na paleta Hubble, reconstruída a partir de imagens astronômicas: a ilha flutua dentro dela. Um coração ciano em volta do aglomerado de estrelas jovens, nuvens douradas e âmbar iluminadas por ele com bordas laranja brilhantes do lado virado para ele, poeira escura (pilares, faixas, uma grande nuvem escura) e, em alguns lugares, vermelho-ferrugem. Ao lado do buraco negro, que fica sobre as nuvens douradas. Um único volume 3D a milhares de blocos, que continua pelo céu inteiro, inclusive abaixo da ilha, com vazios pretos, e um mar de gás luminoso embaixo da ilha, no Void, subindo em direção ao coração. Funciona nos dois estilos de céu (violeta no Photon Concept). Desligada: o céu do End sem ela
+option.END_NEBULA_INTENSITY                    = Intensidade da Nebulosa
+option.END_NEBULA_INTENSITY.comment            = Brilho do gás da nebulosa. De 0 a 1, também faz a poeira escura aparecer ou sumir aos poucos
+option.END_NEBULA_COVERAGE                     = Cobertura da Nebulosa
+option.END_NEBULA_COVERAGE.comment             = Quanto do céu fora da nebulosa principal o gás cobre: valores menores deixam vazios pretos maiores, valores maiores, menores (padrão 1.00; até 2.00 cobre bem mais)
+option.END_NEBULA_MOTION                       = Movimento da Nebulosa
+option.END_NEBULA_MOTION.comment               = O gás da nebulosa corre em direção ao buraco negro: as nuvens, o mar, o dossel e os fiapos próximos fluem para lá, cada escala na sua velocidade, então as nuvens mudam de forma pelo caminho, e vista da ilha a correnteza converge para o buraco negro. Além disso o detalhe fino se expande para fora do coração da nebulosa, segue grandes rajadas e, perto do buraco negro, cai em direção a ele; em volta do buraco negro o próprio gás distante é visto caindo nele, mais rápido quanto mais perto, girando em torno dele; frentes finas de brilho saem do coração e atravessam as nuvens. O coração em si fica no lugar. Lento, Normal e Rápido definem a velocidade. Desligado: parada
+value.END_NEBULA_MOTION.0                      = Desligado
+value.END_NEBULA_MOTION.1                      = Lento
+value.END_NEBULA_MOTION.2                      = Normal
+value.END_NEBULA_MOTION.3                      = Rápido
+option.END_NEBULA_DUST                         = Poeira Cósmica
+option.END_NEBULA_DUST.comment                 = Grãos de poeira minúsculos suspensos no espaço ao seu redor, em lugares fixos do mundo: grãos finos a partir de uns 12 blocos e mais entre 50 e 300 blocos. Os mais próximos passam rápido quando você se move e os mais distantes devagar, como poeira no ar depois da chuva. Brilham de leve e captam um pouco da luz da nebulosa atrás deles. Normal e Forte também engrossam um pouco a poeira da própria nebulosa. Sutil, Normal e Forte definem a quantidade; Desligada os desliga. Mais forte no Cinematic Void, fraca no Photon Concept
+value.END_NEBULA_DUST.0                        = Desligada
+value.END_NEBULA_DUST.1                        = Sutil
+value.END_NEBULA_DUST.2                        = Normal
+value.END_NEBULA_DUST.3                        = Forte
+option.END_NEBULA_SEA                          = Mar da Nebulosa
+option.END_NEBULA_SEA.comment                  = Um mar de gás luminoso embaixo de todo o End, no Void: uma paisagem debaixo da ilha, em toda a volta, ciano onde o coração da nebulosa o ilumina e âmbar no resto, com relevo, subindo um pouco ao longe para aparecer em qualquer direção. Deixa uma baía larga em volta do buraco negro. Desligado: só as nuvens da nebulosa
+option.END_NEBULA_CANOPY                       = Dossel da Nebulosa
+option.END_NEBULA_CANOPY.comment               = A camada irmã do Mar da Nebulosa, no alto do céu do End: manchas macias de gás ciano e âmbar atrás das nuvens da nebulosa, para o céu ter a mesma composição do Void embaixo. Só no alto, longe do horizonte, do buraco negro e do coração da nebulosa. Desligado: só as nuvens da nebulosa no céu
