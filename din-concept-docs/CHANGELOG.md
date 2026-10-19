@@ -345,7 +345,10 @@ v0.6.8 → v0.8.0, now closed:
     at night (85 %), and its shadow now darkens the sky's light behind it
     (65 %): a dark hole in the blue, the clouds passing in front.
 
-## v1.0.0 --- Release candidate (Din Concept 1.0)
+## v1.0.0 --- Promoted to stable (Din Concept 1.0)
+
+-   Approved by the developer (2026-10-19); builds/stable/Din-Concept-v1.0.0.zip
+    is byte-identical to the testing build (SHA-256 8481e726...c10).
 
 -   Updated to the latest Photon main (2026-10-17, for Minecraft 26.3):
     three-way merge (old Photon, ours, new Photon) - 18 files updated, 1
