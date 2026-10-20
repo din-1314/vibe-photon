@@ -345,7 +345,10 @@ v0.6.8 → v0.8.0, now closed:
     at night (85 %), and its shadow now darkens the sky's light behind it
     (65 %): a dark hole in the blue, the clouds passing in front.
 
-## v1.0.1 --- Testing (renamed Vibe Photon)
+## v1.0.1 --- Promoted to stable (renamed Vibe Photon)
+
+-   Approved by the developer (2026-10-20); builds/stable/Vibe-Photon-v1.0.1.zip
+    is byte-identical to the testing build (SHA-256 a38232c6...c222f).
 
 -   Renamed Vibe Photon (it started as a joke / AI test and everything in it
     is Photon's work, so the author's name no longer fits): the menu header
