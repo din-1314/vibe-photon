@@ -10,8 +10,8 @@
 # is appended to the end of it, without mixing the two.
 #--------------------------------------------------------------------------------------------------#
 
-screen.concept                                 = §dDin Concept
-screen.concept.comment                         = Din Concept: o End do Concept - buraco negro, planeta, nebulosa, estrelas, estrelas cadentes e o portal
+screen.concept                                 = §dVibe Photon
+screen.concept.comment                         = Vibe Photon: o End do Concept - buraco negro, planeta, nebulosa, estrelas, estrelas cadentes e o portal
 option.CONCEPT_SKY_STYLE                       = Estilo do Céu
 option.CONCEPT_SKY_STYLE.comment               = Define o visual do céu do End. Photon Concept (padrão): o End do Photon, com céu e névoa roxos, com o buraco negro, o planeta, a nebulosa e as estrelas do Concept. Cinematic Void: o End escuro de espaço profundo.
 value.CONCEPT_SKY_STYLE.CONCEPT_SKY_CINEMATIC_VOID  = Cinematic Void

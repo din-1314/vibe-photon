@@ -73,7 +73,7 @@ screen.nether_color                    = Static Color
 
 screen.distance_view                   = Distance View
 
-option.INFO                            = Din Concept 1.0 (Photon)
+option.INFO                            = Vibe Photon 1.0.1 (Photon)
 value.INFO.0                           = §ePhoton by SixthSurge
 value.INFO.1                           = §aPhoton by SixthSurge
 value.INFO.2                           = §bPhoton by SixthSurge
@@ -827,8 +827,8 @@ option.PHOTONICS_RESTIR_COMBINED_GI.comment = Whether Gi should be ran through R
 # Portuguese. Keep the two blocks in sync when adding options.
 #--------------------------------------------------------------------------------------------------#
 
-screen.concept                                 = §dDin Concept
-screen.concept.comment                         = Din Concept: the Concept's End - black hole, planet, nebula, stars, shooting stars and the portal
+screen.concept                                 = §dVibe Photon
+screen.concept.comment                         = Vibe Photon: the Concept's End - black hole, planet, nebula, stars, shooting stars and the portal
 option.CONCEPT_SKY_STYLE                       = Sky Style
 option.CONCEPT_SKY_STYLE.comment               = Visual identity of the End sky. Photon Concept (default): Photon's End, with its purple sky and fog, with the Concept's black hole, planet, nebula and stars. Cinematic Void: the dark deep-space End.
 value.CONCEPT_SKY_STYLE.CONCEPT_SKY_CINEMATIC_VOID  = Cinematic Void

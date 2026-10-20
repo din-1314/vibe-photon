@@ -345,6 +345,16 @@ v0.6.8 → v0.8.0, now closed:
     at night (85 %), and its shadow now darkens the sky's light behind it
     (65 %): a dark hole in the blue, the clouds passing in front.
 
+## v1.0.1 --- Testing (renamed Vibe Photon)
+
+-   Renamed Vibe Photon (it started as a joke / AI test and everything in it
+    is Photon's work, so the author's name no longer fits): the menu header
+    ("Vibe Photon 1.0.1 (Photon)"), the Concept menu ("Vibe Photon"), the
+    README. No shader code changed.
+-   Known issue (found after the release): with the Photonics mod installed
+    on Minecraft 1.21.8 (Iris 1.9.6), Iris fails with "source is null" - the
+    latest original Photon fails the same way. Disable the Photonics mod.
+
 ## v1.0.0 --- Promoted to stable (Din Concept 1.0)
 
 -   Approved by the developer (2026-10-19); builds/stable/Din-Concept-v1.0.0.zip

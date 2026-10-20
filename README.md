@@ -29,7 +29,7 @@ Photon, updated to the latest Photon main.
 * The black hole in the sky, by night and (fainter, behind the blue) by day
 * The Enhanced Star Field, shooting stars and a Milky Way in the nebula's colours at night
 
-All options are in the **Din Concept** menu (the name inside the game, from before the rename).
+All options are in the **Vibe Photon** menu.
 
 ### Credits
 * **Photon Shaders** by SixthSurge - the whole shader this is built on (license below and in LICENSE)
