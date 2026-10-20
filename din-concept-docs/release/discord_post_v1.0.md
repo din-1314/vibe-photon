@@ -1,8 +1,8 @@
-# Din Concept 1.0 — Discord post
+# Vibe Photon — Discord post
 
 ## English (to post)
 
-**Din Concept 1.0 — a cinematic End for Photon** 🌌🕳️
+**Photon but vibecoded: a black hole in the End (it's all Photon's work, just a joke)**
 
 So this started as a little test, just me messing around with Claude and ChatGPT to see what they could do with a shader… and somehow it turned into this. Din Concept is basically the kid of **IterationT** and **Photon**: IterationT's End vibe, rebuilt on top of Photon (updated to the latest Photon main, Minecraft 26.3).
 
@@ -31,7 +31,7 @@ Huge credit to **SixthSurge** — this is all running on Photon, so the real mag
 
 ## Português (só para você entender o que está escrito)
 
-**Din Concept 1.0 — um End cinematográfico para o Photon** 🌌🕳️
+**Photon, mas vibecodado: um buraco negro no End (todo o trabalho é do Photon, só uma brincadeira)**
 
 Isso começou como um testezinho, só eu brincando com o Claude e o ChatGPT pra ver o que eles conseguiam fazer num shader… e de algum jeito virou isso. A Din Concept é basicamente filha do **IterationT** com o **Photon**: o clima do End do IterationT, refeito em cima do Photon (atualizado para o Photon main mais recente, Minecraft 26.3).
 

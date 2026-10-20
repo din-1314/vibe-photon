@@ -1,8 +1,8 @@
-<h1 align = "center">Din Concept 1.0</h1>
+<h1 align = "center">Vibe Photon</h1>
 
-<p align = "center">A cinematic End (and night sky) for Photon - a child of IterationT and Photon</p>
+<p align = "center">A vibecoded Photon edit: a cinematic End (and night sky) - a child of IterationT and Photon. Just a joke / AI test, everything here is Photon's work</p>
 
-Din Concept is an unofficial edit of [Photon Shaders](https://github.com/sixthsurge/photon) by SixthSurge. It
+Vibe Photon is an unofficial edit of [Photon Shaders](https://github.com/sixthsurge/photon) by SixthSurge. It
 started as a for-fun test with AI assistants (Claude and ChatGPT) and grew into a full rework of the End's sky,
 inspired by the IterationT shader's End and built on Photon's own pipeline. Everything outside the sky objects is
 Photon, updated to the latest Photon main.
@@ -29,14 +29,14 @@ Photon, updated to the latest Photon main.
 * The black hole in the sky, by night and (fainter, behind the blue) by day
 * The Enhanced Star Field, shooting stars and a Milky Way in the nebula's colours at night
 
-All options are in the **Din Concept** menu.
+All options are in the **Din Concept** menu (the name inside the game, from before the rename).
 
 ### Credits
 * **Photon Shaders** by SixthSurge - the whole shader this is built on (license below and in LICENSE)
 * **IterationT** - the inspiration for the End's black hole, planet and stars
 * Made with Claude (Anthropic) and ChatGPT (OpenAI)
 
-Not affiliated with or endorsed by SixthSurge. Please report Din Concept issues to its author, not to Photon.
+Not affiliated with or endorsed by SixthSurge. Please report Vibe Photon issues to its author, not to Photon.
 
 ---
 
